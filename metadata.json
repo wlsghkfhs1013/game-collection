@@ -1,0 +1,6 @@
+{
+  "name": "Community Arcade Hub",
+  "description": "Play, rate, review, and create community-made web games directly in your browser on Google Chrome. Free online HTML5 arcade and puzzle games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
